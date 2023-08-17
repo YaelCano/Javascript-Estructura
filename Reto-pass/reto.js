@@ -1,3 +1,8 @@
+/*-------------PASSWORD--------------------*/
+
+
+
+
 const readline = require('readline');
 
 const rl = readline.createInterface({
@@ -45,3 +50,6 @@ const preguntarContraseñas = () => {
 };
 console.clear()
 preguntarContraseñas();
+
+
+// Desarrollado por: Yael Mauricio Cano Palacio

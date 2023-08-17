@@ -27,7 +27,7 @@ function newPassword(a, b) {
 
 // Casos de prueba
 const testCases = [
-  { a: 'abc', b: 'deft', expected: 'adbect' },
+  { a: 'abc', b: 'deft', expected: 'adbecf' },
   { a: 'hackerrank', b: 'mountain', expected: 'hmaocuknetrariannk' },
   // Agrega más casos de prueba aquí
 ];
