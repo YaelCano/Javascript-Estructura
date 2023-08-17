@@ -27,6 +27,6 @@ function newPassword(a, b) {
     }
     
     }
-    
+    console.log(newPassword("antonio","maria"));
     /*Desarrollado por: Yael Mauricio Cano Palacio*/
     
