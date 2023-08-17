@@ -1,3 +1,5 @@
+//**--------Reto------- */
+
 function newPassword(a, b) {
   let result = '';
 
@@ -45,3 +47,4 @@ function runTests() {
 
 // Ejecutar las pruebas
 runTests();
+//** Desarrollado por: Yael Mauricio Cano Palacio */
