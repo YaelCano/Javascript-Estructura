@@ -1,6 +1,4 @@
 //** */
-//
-
 
 class NodoDoble {
 constructor(data) {
