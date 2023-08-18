@@ -40,7 +40,7 @@ function runTests() {
     console.log(
       `Caso de prueba: a = '${testCase.a}', b = '${testCase.b}' - Resultado: '${result}', Esperado: '${testCase.expected}' - ${
         isPassing ? 'PASSED' : 'FAILED'
-      }`
+    }`
     );
   }
 }
